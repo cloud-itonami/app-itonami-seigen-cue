@@ -1,12 +1,12 @@
 {
   "@context": {
-    "etzhayyim": "https://resources.etzhayyim.com/etzhayyim-project-resources/id/",
+    "itonami": "https://resources.itonami.cloud/itonami-project-resources/id/",
     "schema": "https://schema.org/",
-    "dodaf": "https://resources.etzhayyim.com/etzhayyim-project-resources/id/DM2/"
+    "dodaf": "https://resources.itonami.cloud/itonami-project-resources/id/DM2/"
   },
-  "@type": "etzhayyim:Project",
-  "@id": "https://resources.etzhayyim.com/etzhayyim-project-seigen-cue/id/Project/etzhayyim-project-seigen-cue",
-  "schema:name": "etzhayyim-project-seigen-cue",
+  "@type": "itonami:Project",
+  "@id": "https://resources.itonami.cloud/itonami-project-seigen-cue/id/Project/itonami-project-seigen-cue",
+  "schema:name": "itonami-project-seigen-cue",
   "schema:description": "Seigen DID actor project. Stores constraint policies as CUE and SQL, and applies them via CLI and MCP with build-failing validation.",
   "dodaf:capability": [
     {
