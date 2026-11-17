@@ -1,4 +1,4 @@
-# etzhayyim-project-seigen-cue
+# itonami-project-seigen-cue
 
 Seigen DID actor for constraint governance.
 
